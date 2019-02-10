@@ -1043,7 +1043,7 @@ body.section-show .transition-mask:before{
 	margin-bottom:80px;
 }
 .skill{
-	position:relative;
+	position: relative;
 	margin-bottom:60px;
 }
 .skill > h4{
@@ -1053,7 +1053,7 @@ body.section-show .transition-mask:before{
 	letter-spacing:2px;
 	color:#B7A389;
 }
-.skill > .skill-bar{
+/* .skill > .skill-bar{
 	height:10px;
 	background:#F0F0F0;
 }
@@ -1062,8 +1062,8 @@ body.section-show .transition-mask:before{
 	height:100%;
 	width:0;
 	position:relative;
-}
-.skill > .skill-bar > .bar > .percent{
+} */
+/* .skill > .skill-bar > .bar > .percent{
 	position:absolute;
 	padding:4px 7px;
 	background:#888;
@@ -1072,15 +1072,15 @@ body.section-show .transition-mask:before{
 	right:0;
 	font-size:11px;
 	margin-bottom:10px;
-}
-.skill > .skill-bar > .bar > .percent:after{
+} */
+/* .skill > .skill-bar > .bar > .percent:after{
 	content: ' ';
 	position:absolute;
 	border-bottom:solid 7px transparent;
 	border-right:solid 7px #888;
 	bottom:-7px;
 	right:0;
-}
+} */
 
 /*=======================================================================
 	Services Section
