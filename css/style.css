@@ -1043,8 +1043,7 @@ body.section-show .transition-mask:before{
 	margin-bottom:80px;
 }
 .skill{
-	position: relative;
-	margin-bottom:60px;
+	margin-bottom:30px;
 }
 .skill > h4{
 	font-size:14px;
