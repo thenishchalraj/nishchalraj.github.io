@@ -482,11 +482,6 @@ body.section-show .transition-mask:before{
 }
 .front-person-img > img{
 	max-width:100%;
-	width:600px;
-	height:600px;
-	padding-left: 20px;
-	padding-bottom: 50px;
-	padding-top: -50px;
 	vertical-align:bottom;
 	-webkit-transform:rotate(-45deg) translateY(40px);
 	-moz-transform:rotate(-45deg) translateY(40px);
