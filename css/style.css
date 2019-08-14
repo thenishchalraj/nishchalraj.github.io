@@ -43,6 +43,10 @@
 	font-family: Open Sans, sans-serif;
 }
 
+.increase-width {
+	width: 800px;
+}
+
 .ta-center {
 	text-align: center;
 }
