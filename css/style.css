@@ -43,10 +43,6 @@
 	font-family: Open Sans, sans-serif;
 }
 
-.increase-width {
-	width: 800px;
-}
-
 .ta-center {
 	text-align: center;
 }
@@ -1314,6 +1310,9 @@ body.section-show .transition-mask:before{
 }
 .post > .media > img{
 	max-width:100%;
+}
+.post > .media > .increase-width{
+	width: 800px;
 }
 .post > .content{
 	margin-top:25px;
