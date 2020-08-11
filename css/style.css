@@ -1,16 +1,13 @@
 .card {
     position: relative;
-    width: 30%;
     height: 100%;
     background-size: cover;
-    background-color: black;
-    background-image: url('../image/AI.jpg');
     background-clip: content-box;
     /* border-radius: 20px; */
     background-position: center center;
     overflow: hidden;
-    box-shadow: rgba(0, 0, 0, 0.22) 0px 15px 12px,
-        rgba(0, 0, 0, 0.3) 0px 19px 38px;
+    /* box-shadow: rgba(0, 0, 0, 0.22) 0px 15px 12px,
+        rgba(0, 0, 0, 0.3) 0px 19px 38px;         */
 }
 
 .card_inner {
@@ -47,7 +44,75 @@
     border-radius: 50px;
 }
 
-.flex-100 {
+.flex {
     display: flex;
+}
+.block {
+    display: block;
+}
+
+
+/*different cards*/
+.card1 {
+    width: 20vw;
+    /* background-image: url('../image/profile.jpg'); */
+    background-color: purple;
+}
+.card2 {
+    width: 70vw;
+    background-color: blueviolet;
+    /* background-image: url('../image/AI.jpg'); */
+}
+.card3 {
+    width: 10vw;
+    background-color: blue;
+    /* background-image: url('../image/AI.jpg'); */
+}
+.card4 {
+    width: 20vw;
+    background-color: brown;
+    /* background-image: url('../image/AI.jpg'); */
+}
+.card5 {
+    width: 30vw;
+    background-color: green;
+    /* background-image: url('../image/AI.jpg'); */
+}
+.card6 {
+    width: 50vw;
+    background-color: goldenrod;
+    /* background-image: url('../image/AI.jpg'); */
+}
+.card7 {
+    width: 20vw;
+    background-color: greenyellow;
+    /* background-image: url('../image/AI.jpg'); */
+}
+.card8 {
+    width: 35vw;
+    background-color: sandybrown;
+    /* background-image: url('../image/AI.jpg'); */
+}
+.card9 {
+    width: 25vw;
+    background-color: steelblue;
+    /* background-image: url('../image/AI.jpg'); */
+}
+
+
+/*different height*/
+.height-100 {
     height: 100%;
+}
+.height-80 {
+    height: 80%;
+}
+.height-70 {
+    height: 70%;
+}
+.height-30 {
+    height: 30%;
+}
+.height-20 {
+    height: 20%;
 }
